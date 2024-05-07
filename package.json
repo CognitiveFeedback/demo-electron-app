@@ -1,0 +1,19 @@
+{
+  "name": "demo-electron-app",
+  "version": "1.0.0",
+  "description": "Demo Electron App",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "demo-electron-app"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.0.2"
+  }
+}
